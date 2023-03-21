@@ -1,0 +1,19 @@
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-create-read-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/home/moringa/.rbenv/versions/2.7.4/bin/ruby -I /home/moringa/.rbenv/versions/2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-create-read-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230321-11528-big5re sitelibdir\=./.gem.20230321-11528-big5re clean
+
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-create-read-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230321-11528-big5re sitelibdir\=./.gem.20230321-11528-big5re
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-create-read-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230321-11528-big5re sitelibdir\=./.gem.20230321-11528-big5re install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230321-11528-big5re/racc
+
+current directory: /home/moringa/code/labs/phase4/phase-4-rails-create-read-lab/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230321-11528-big5re sitelibdir\=./.gem.20230321-11528-big5re clean
